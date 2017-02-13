@@ -1,1 +1,20 @@
 # my-project-work
+jesus and mary college website
+title (yes)
+javascript(yes)
+meta tag(yes)
+keywords(no)
+broken link(yes)
+img src(no)
+internal links(yes)
+alt(yes)
+du university website
+meta tag(yes)
+title(yes)
+keyword(no)
+javascript(yes)
+img src(yes)
+sitemap(no)
+broken link(no)
+alt(yes)
+internal link(yes)
